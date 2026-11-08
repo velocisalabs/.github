@@ -7,7 +7,7 @@
 
 <p align="center">Software that takes care of you while you do the work that matters.</p>
 
-Velocisa Labs is a small software company, founded in India in 2025. We make a few things, carefully, and keep improving them.
+Velocisa is a small software company, founded in India in 2026. We make a few things, carefully, and keep improving them.
 
 ### What we've built
 
