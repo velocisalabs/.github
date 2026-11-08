@@ -11,7 +11,7 @@ Velocisa is a small software company, founded in India in 2026. We make a few th
 
 ### What we've built
 
-**NightRise**, a shift work calendar for Android, for people whose week doesn't start on Monday. Closed test from 4 Dec 2026.
+**NightRise**, a shift work calendar for Android, for people whose week doesn't start on Monday. Coming soon.
 
 ### What we believe
 
